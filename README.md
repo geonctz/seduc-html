@@ -1,2 +1,2 @@
 # seduc-html
-# HTML
+# HTML5
